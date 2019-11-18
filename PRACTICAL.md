@@ -1,7 +1,7 @@
 # **PROGRAMMING FOR PROBLEM SOLVING**
 ## NAME-AMAN KUMAR GANDHI
 ## ITA1-1921008
-![LOGO](https://github.com/gandhiaman001/amanprog/blob/master/logo.jpg
+![LOGO](https://github.com/gandhiaman001/amanprog/blob/master/logo.jpg)
 # 1.Programs to display a welcome message using puts
 ```C
 #include<stdio.h>
