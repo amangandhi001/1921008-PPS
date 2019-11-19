@@ -89,7 +89,7 @@ Enetr the radius of the circle :5
 Area of the circle =78.500000
 Circumference of the circle = 31.400000
 ```
-# 6. programs to swap the two number without using third variable .
+# 6. program to swap the two number without using third variable .
 ```C
 #include<stdio.h>  
  int main()    
@@ -181,7 +181,7 @@ fizz
 buzz
 ..........
 ```
-# 10.programs to print week of days using switch case 
+# 10.program to print week of days using switch case 
 ```C
 #include <stdio.h>
 
@@ -227,7 +227,7 @@ Output of programsg
 Input week number(1-7): 2
 Tuesday
 ```
-# 11. programe to make a calculator using switch case 
+# 11. program to make a calculator using switch case 
 ```C
 #include<stdio.h>
 int main() {
@@ -267,7 +267,7 @@ Enter two operands: 1.5
 1.5 * 4.5 = 6.8
 
 ```
-# 12. programs to cheak leap of year
+# 12. programs to check leap of year
 ```C
 #include <stdio.h>
 int main()
@@ -300,7 +300,7 @@ Output 1
 Enter a year: 1900
 1900 is not a leap year.
 ```
-# 13. programs to cheak prime number or not
+# 13. program to check prime number or not
 ```C
 #include <stdio.h>
 int main()
@@ -338,7 +338,7 @@ Output
 Enter a positive integer: 29
 29 is a prime number.
 ```
-# 14.programs to fibonacci series 
+# 14.program to fibonacci series 
 ```C
 #include <stdio.h>
 int main()
@@ -364,7 +364,7 @@ Output
 Enter the number of terms: 10
 Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 
 ```
-# 16 programs to print simple matrix in array   
+# 16 program to print simple matrix in array   
 ```C
 #include <stdio.h>
 int main() {
@@ -394,7 +394,7 @@ Displaying integers: 1
 0
 3
 ```
-# 17 programs to find squre of number using function 
+# 17 program to find square of number using function 
 ```C
 #include<stdio.h>
 
@@ -423,7 +423,7 @@ Output of the Program:
 Enter your number:5
 Square of 5 is 25.
 ```
-# 18 programs to swape a number by call by value 
+# 18 program to swap a number by call by value 
 ```C
 #include <stdio.h>
  
@@ -467,7 +467,7 @@ After Swapping
 x = 10
 y = 5
 ```
-# 19 programs to swape two number by call by refrence 
+# 19 program to swap two number by call by reference 
 ```C
 #include <stdio.h>
  
@@ -501,7 +501,7 @@ After Swapping
 First integer = 45
 Second integer = 23
 ```
-# 20 programs to find factorial of number using recursion 
+# 20 program to find factorial of number using recursion 
 ```C
 #include<stdio.h>
 int find_factorial(int);
@@ -533,4 +533,6 @@ Output:
 ```C
 
 Enter any integer number: 4
+
+factorial of 4 is: 24
 ```
