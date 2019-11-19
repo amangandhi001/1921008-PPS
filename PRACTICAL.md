@@ -364,7 +364,7 @@ Output
 Enter the number of terms: 10
 Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 
 ```
-# 16 program to print simple matrix in array   
+# 15. program to print simple matrix in array   
 ```C
 #include <stdio.h>
 int main() {
@@ -394,7 +394,7 @@ Displaying integers: 1
 0
 3
 ```
-# 17 program to find square of number using function 
+# 16. program to find square of number using function 
 ```C
 #include<stdio.h>
 
@@ -423,7 +423,7 @@ Output of the Program:
 Enter your number:5
 Square of 5 is 25.
 ```
-# 18 program to swap a number by call by value 
+# 17.program to swap a number by call by value 
 ```C
 #include <stdio.h>
  
@@ -467,7 +467,7 @@ After Swapping
 x = 10
 y = 5
 ```
-# 19 program to swap two number by call by reference 
+# 18.program to swap two number by call by reference 
 ```C
 #include <stdio.h>
  
@@ -501,7 +501,7 @@ After Swapping
 First integer = 45
 Second integer = 23
 ```
-# 20 program to find factorial of number using recursion 
+# 19.program to find factorial of number using recursion 
 ```C
 #include<stdio.h>
 int find_factorial(int);
